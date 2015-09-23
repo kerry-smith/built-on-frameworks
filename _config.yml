@@ -1,2 +1,3 @@
 markdown: redcarpet
 baseurl: http://builtonframeworks.com
+exclude: ['README.md']
